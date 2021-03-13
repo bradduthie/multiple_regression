@@ -34,7 +34,8 @@ $$y = a + b_{1}x_{1} +b_{2}x_{2}.$$
 We can extend this even further to any number of k independent variables,
 
 $$y = a + b_{1}x_{1} +b_{2}x_{2} +  ... + b_{k}x_{k}.$$
-Note that this is really just an extension of the simple linear regression model that we discussed in the previous lecture, and we can talk about the statistical and practical validity of a regression model as before. 
+Note that we are just adding new terms to the model as we increase the number of independent variables.
+
 
 Adjusted coefficient of determination
 --------------------------------------------------------------------------------
